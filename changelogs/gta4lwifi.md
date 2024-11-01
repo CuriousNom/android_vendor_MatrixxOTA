@@ -3,6 +3,14 @@ title: Samsung Galaxy Tab A7 (gta4lwifi)
 description: Brought to you by Aryan
 ---
 
+<b>Changelog 1 Nov 2024:</b>
+- Imported more oem props
+- Dropped skiagl renderer
+- Disabled graphics layer debug
+- Optimised Console Framebuffer
+- Configured Powersuspend
+- Upstreamed kernel to 4.19.318
+
 <b>Changelog 23 July 2024:</b>
 - Improved Touch response and scrolling
 - Removed some props
